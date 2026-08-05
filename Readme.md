@@ -47,7 +47,7 @@ DSA-PRACTICE/
 
 | Topic | Problems |
 |------|---------:|
-| Arrays | 10 |
+| Arrays | 15 |
 | Binary Search | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -61,7 +61,7 @@ DSA-PRACTICE/
 | Graph | 0 |
 | Dynamic Programming | 0 |
 
-**Total Problems Solved: 10**
+**Total Problems Solved: 15**
 
 ---
 
